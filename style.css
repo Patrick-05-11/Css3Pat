@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-image: 100px;
+    font-family:'Merriweather', sans-serif;
+}
+h1 {
+    margin-top: 0;
+    width: 8%;
+    margin: 0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+   
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+    background-color: #E4f9f5;
+    position: relative;
+    padding: 100px;
+}
+.middle-container {
+    background-color: beige;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 500px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+}
+.bottom-container {
+    background-color: beige;
+}
+.profile {
+    border-radius: 69% 31% 52% 48% / 30% 30% 70% 70% ;
+}
+
+.eating {
+    border-radius: 27% 73% 31% 69% / 76% 30% 70% 24% ;
+}
+
+.games {
+    border-radius: 17% 83% 13% 87% / 80% 11% 89% 20% ;
+}
+.contact-me {
+     font-size: 20px;
+     background-color: beige;
+}
